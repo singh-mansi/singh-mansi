@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Front-end Development (HTML, CSS, Javascript, Angular), Object-Oriented Programming (OOP), Java, Python, Golang.<br><br>Strong engineering professional with a Bachelor of Engineering - BE focused in Information Technology from S.B. Jain Institute of Technology, Management & Research, Nagpur. Currently pursuing Master's in Computer Science from the University of Florida. During Summer'22, I got an opportunity to work with the FDH Infrastructure Services as a Software Developer Intern. 
+Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Front-end Development (HTML, CSS, Javascript, Angular), Object-Oriented Programming (OOP), Java, Python, Golang.<br><br>. 
 
 
 ## 🌐 Socials:
