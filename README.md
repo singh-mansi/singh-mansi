@@ -1,7 +1,8 @@
-# 💫 About Me:
-🔭 I am pursuing my Master's in Computer Science from the University of Florida<br>🌱 I’m currently looking for Full-time SDE roles starting May 2023<br>💬 I am passionate about Software engineering. Machine Learning and HCI<br>⚡ I love coding, cooking, and dogs<br><br>
+# 💫 Hi! I am Mansi! (She/Her)
+🔭 I am pursuing my Master's in Computer Science from the University of Florida<br>🌱 I’m currently looking for Full-time SDE roles starting May 2023<br>💬 I am passionate about Software engineering. Machine Learning and HCI and a drive to create impactful solutions through my work. <br>⚡ I love coding, cooking, and dogs<br>
+<br>✉️ Contact me: [singhrk.mansi@gmail.com](singhrk.mansi@gmail.com)<br> 	📂 Check out my resume: [Mansi Singh](Mansi_Singh_Resume.pdf)
+<br>
 
-I have over 3 years of experience in software development, with a focus on Adobe Experience Manager (AEM) and have had the opportunity to work with various other technologies such as Angular, Python, and Golang. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/singhr-mansi/) 
