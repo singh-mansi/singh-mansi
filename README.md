@@ -1,6 +1,6 @@
 # 💫 Hi! I am Mansi! (She/Her)
 🔭 I am pursuing my Master's in Computer Science from the University of Florida<br>🌱 I’m currently looking for Full-time SDE roles starting May 2023<br>💬 I am passionate about Software engineering. Machine Learning and HCI and a drive to create impactful solutions through my work. <br>⚡ I love coding, cooking, and dogs<br>
-<br>✉️ Contact me: [singhrk.mansi@gmail.com](singhrk.mansi@gmail.com)<br> 	📂 Check out my resume: [Mansi Singh]([Mansi_Singh_Resume.docx.pdf](https://drive.google.com/file/d/192zpL8cUoBA-Ofahtg78ypgoys7z-sEB/view?usp=sharing))
+<br>✉️ Contact me: [singhrk.mansi@gmail.com](singhrk.mansi@gmail.com)<br> 	📂 Check out my resume: [Mansi Singh](https://drive.google.com/file/d/192zpL8cUoBA-Ofahtg78ypgoys7z-sEB/view?usp=sharing)
 <br>
 
 
